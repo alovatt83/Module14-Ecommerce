@@ -46,35 +46,6 @@ Visit our repository and request access to contribute.
 Tested on macOS Big Sur
 
 ## Questions
-Report any discovered issues here: issues@readmegenerator.com<br />
-<br />
-
-## Contact
-Find me on GitHub: [Alovatt83](https://github.com/Alovatt83)<br />
-<br />
-Call me @: (905) 555-7295
-<br />
-Email me with any questions: allenlovatt@gmail.com<br /><br />
-
-This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovatt83/ReadMe-Generator))<br />
-Click on the GIF to redirect to HD video.
-
-
-## Deployed
-https://github.com/alovatt83/Module14-Ecommerce
-
-## License
-![badge](https://img.shields.io/badge/license-MIT-orange)
-<br />
-This application is covered by the MIT license. 
-
-## Contributing
-Visit our repository and request access to contribute.
-
-## Testing
-Tested on macOS Big Sur
-
-## Questions
 Report any discovered issues here: issues@ADLsoftware.com<br />
 <br />
 
@@ -85,4 +56,4 @@ Call me @: (905) 555-7295
 <br />
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
-This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovatt83/ReadMe-Generator)
+This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovatt83/ReadMe-Generator))<br />
