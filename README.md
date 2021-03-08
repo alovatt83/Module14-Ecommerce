@@ -24,36 +24,7 @@ Add, remove, or post new products, prices and inventory counts to your ecommerce
 > execute in terminal: node index.js<br />
 
 ## Usage
-Keep track of all of your inventory, pricing or proucts by category, tag or product descriptions.
-
-## Screenshot
-[![Watch the video](https://media.giphy.com/media/y49hxVlYyLOAVpnlPG/giphy.gif)](<h1 align="center">MySQL Employee Tracker</h1>
-  
-![badge](https://img.shields.io/badge/license-MIT-orange)<br />
-
-## Description
-View, add or Update Employee roles. View, add departments. View managers and salaries.
-
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshot](#screenshot)
-- [Deployed](#deployed)
-- [License](#license)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [Questions](#questions)
-- [Contact](#contact)
-
-## Installation
-> execute in terminal: npm install<br />
-> execute in terminal: npm install inquirer<br />
-> execute in terminal: npm install mysql<br />
-> execute in terminal: node index.js<br />
-
-## Usage
-Keep track of all of your employees!
+Keep track of your inventory, categories and pricing.
 
 ## Screenshot
 [![Watch the video](https://media.giphy.com/media/6qIpMwJFTIyfIP1Sjl/giphy.gif)](https://youtu.be/FH_5i9jJLVc)<br />
