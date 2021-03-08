@@ -27,7 +27,7 @@ Add, remove, or post new products, prices and inventory counts to your ecommerce
 Keep track of your inventory, categories and pricing.
 
 ## Screenshot
-[![Watch the video](https://media.giphy.com/media/6qIpMwJFTIyfIP1Sjl/giphy.gif)](https://youtu.be/FH_5i9jJLVc)<br />
+[![Watch the video](https://media.giphy.com/media/6qIpMwJFTIyfIP1Sjl/giphy.gif)](https://youtu.be/Ews8yzg3q74)<br />
 Click on the GIF to redirect to HD video.
 
 
